@@ -5,6 +5,13 @@ ZUOLUOTV 导航
 
 [ZUOLUOTV 导航](https://github.com/zuoluotv/zuoluotv)是一个分享、收集与 ZUOLUOTV 有关内容的导航聚合，欢迎大家Star，有问题可以在[issues](https://github.com/zuoluotv/zuoluotv/issues)里留言与讨论。
 
+## 我是谁
+
+ZUOLUOTV 制作人，左左文化创始人。家在深圳，本科广州[暨南大学](https://www.jnu.edu.cn/)，在北京[猎豹移动](https://www.cmcm.com/)和上海[阅文集团](https://www.yuewen.com/)当过五年前端工程师，俗称程序员，2018年辞职创业，现在给[老婆](https://yang.style/s/weibo)打工，全世界走走逛逛拍拍。
+
+* [编程五年:我辞职了](https://luolei.org/new-journey/)
+* [腾讯第二届前端体验大会分享:非典型程序员之路](https://luolei.org/feexp-2017-shenzhen/)
+
 ## 从哪找到我
 
 * [![Telegram](https://static.is26.com/tmp/telegram.svg)](https://t.me/zuoluotv)[ Telegram 交流群](https://t.me/zuoluotv)
@@ -36,6 +43,13 @@ ZUOLUOTV 导航
 
 *  VLOG33 | 最低0月租，就能合法拥有英国、香港、大陆三个手机号，居然还支持中国漫游 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=bRLWDQ4UhDU)[Youtube](https://www.youtube.com/watch?v=bRLWDQ4UhDU) 
 *  VLOG32 | 不在美国，如何拥有一个真实的美国手机号 | 从免费到超贵，三种实用方案推荐 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=7SA27nseq0s)[Youtube](https://www.youtube.com/watch?v=7SA27nseq0s) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av41610616)[Bilibili](https://www.bilibili.com/video/av41610616)
+
+#### 1月
+
+*  VLOG31 | MiBox S 小米盒子4国际版 | 可能是2019新年最值的Android TV [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=MjZJG4GCw1g)[Youtube](https://www.youtube.com/watch?v=MjZJG4GCw1g) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av41145254)[Bilibili](https://www.bilibili.com/video/av41145254)
+*  VLOG30 | WeSim对比一加国际上网 | 腾讯出品的良心境外上网卡 | 香港手机上网 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=Z9npDOKJD9w)[Youtube](https://www.youtube.com/watch?v=Z9npDOKJD9w) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av41069930)[Bilibili](https://www.bilibili.com/video/av41069930)
+*  VLOG29 | 美国银行开户攻略 | 去美国旅行，记得去办个真正的美国本地银行卡 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=Or7euv5dfMQ)[Youtube](https://www.youtube.com/watch?v=Or7euv5dfMQ) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av40985033)[Bilibili](https://www.bilibili.com/video/av40985033)
+*  VLOG28 | 去美国旅行，不要用一加的国际上网| eSIM境外上网跳坑记 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=C9ajYBAPzyE)[Youtube](https://www.youtube.com/watch?v=C9ajYBAPzyE) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av40614699)[Bilibili](https://www.bilibili.com/video/av40614699)
 
 ## 原创博客
 
