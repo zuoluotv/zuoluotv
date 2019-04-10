@@ -33,19 +33,27 @@ ZUOLUOTV 导航
 
 ## 原创博客
 
+#### 美国银行开户
+
+* [美国银行开户攻略 | 去美国旅行，记得去办个真正的美国银行卡 | 中国游客也能办](https://luolei.org/bank-of-america-chinese-vistor-opening-account/)
+* [来美国旅游，办了张美国银行卡: B1/B2旅游签证 办理美国银行卡攻略](https://luolei.org/open-bank-account-in-usa-b1-b2-visa/)
+
+#### 手机卡
+
+* [人在中国，如何拥有真实的美国手机号 | 从免费到超贵，三种实用方案推荐 ](https://luolei.org/how-to-get-a-us-mobile-phone-number/)
+* [CUniq UK:一卡中英港三号，能在大陆漫游的英国手机卡](https://luolei.org/cuniq-uk-sim-card-china-roaming/)
+* [香港上台攻略:大陆居民持护照、港澳通行证办理香港手机卡套餐](https://luolei.org/cuniq-hk-shared-plan-for-chinese-mainland-citizens/)
+* [腾讯出品的良心境外上网卡WeSim](https://luolei.org/wesim-roaming-card/)
+* [如何给 Lycamobile 充值任意金额的话费 | 突破淘宝最低5美元限制](https://luolei.org/lycamobile-recharge-custom-money/)
+* [在中国大陆免费体验 iPhone 手机 eSIM](https://luolei.org/iphone-esim-club-sim/)
+* [去美国旅行，不要用一加的国际上网| eSIM境外上网跳坑记](https://luolei.org/oneplus-esim-usa-travel/)
+* [如何在 iPhone 开通中国联通 Voicemail 语音邮箱](https://luolei.org/china-unicom-iphone-active-voicemail/)
+
 ### 2019年
 
-* [我最常访问的五个小众中文网站 | ZUOLUOTV | VLOG38](https://luolei.org/top-5-interesting-chinese-website/)
-* [如何给 Lycamobile 充值任意金额的话费 | 突破淘宝最低5美元限制 | ZUOLUOTV | VLOG37](https://luolei.org/lycamobile-recharge-custom-money/)
-* [在中国大陆免费体验 iPhone 手机 eSIM | ZUOLUOTV | VLOG36](https://luolei.org/iphone-esim-club-sim/)
-* [腾讯出品的良心境外上网卡WeSim | ZUOLUOTV | VLOG30](https://luolei.org/wesim-roaming-card/)
-* [如何在 iPhone 开通中国联通 Voicemail 语音邮箱 | VLOG35](https://luolei.org/china-unicom-iphone-active-voicemail/)
-* [香港上台攻略:大陆居民持护照、港澳通行证办理香港手机卡套餐](https://luolei.org/cuniq-hk-shared-plan-for-chinese-mainland-citizens/)
-* [CUniq UK:一卡中英港三号，能在大陆漫游的英国手机卡](https://luolei.org/cuniq-uk-sim-card-china-roaming/)
+* [我最常访问的五个小众中文网站](https://luolei.org/top-5-interesting-chinese-website/)
 * [创业笔记 | 从0到1开公司是什么体验](https://luolei.org/shenzhen-startup-tutorial/)
-* [人在中国，如何拥有真实的美国手机号 | 从免费到超贵，三种实用方案推荐 | ZUOLUOTV | VLOG32](https://luolei.org/how-to-get-a-us-mobile-phone-number/)
-* [MiBox S 小米盒子国际版 | 可能是2019年最值的原生AndroidTV | ZUOLUOTV | VLOG31](https://luolei.org/mibox-s-unboxing/)
-* [美国银行开户攻略 | 去美国旅行，记得去办个真正的美国银行卡 | 中国游客也能办 | ZUOLUOTV | VLOG29](https://luolei.org/bank-of-america-chinese-vistor-opening-account/)
+* [MiBox S 小米盒子国际版 | 可能是2019年最值的原生AndroidTV](https://luolei.org/mibox-s-unboxing/)
 
 ## 版权声明与转载原则
 
