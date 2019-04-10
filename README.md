@@ -7,14 +7,14 @@ ZUOLUOTV 导航
 
 ## 从哪找到我
 
-* [![Telegram](http://static.is26.com/tmp/telegram.svg)](https://t.me/zuoluotv)[ Telegram 交流群](https://t.me/zuoluotv)
-* [![Telegram](http://static.is26.com/tmp/telegram2.svg)](https://t.me/zuoluotvofficial)[ Telegram 频道](https://t.me/zuoluotvofficial)
+* [![Telegram](https://static.is26.com/tmp/telegram.svg)](https://t.me/zuoluotv)[ Telegram 交流群](https://t.me/zuoluotv)
+* [![Telegram](https://static.is26.com/tmp/telegram2.svg)](https://t.me/zuoluotvofficial)[ Telegram 频道](https://t.me/zuoluotvofficial)
 * [💻 罗磊的独立博客](https://luolei.org)
-* [![Bilibili](http://static.is26.com/tmp/bilibili.svg)](https://zuoluo.tv/bilibili)[ 哔哩哔哩: 罗罗磊磊](https://zuoluo.tv/bilibili)
-* [![YouTube](http://static.is26.com/tmp/youtube.svg)](https://zuoluo.tv/youtube) [YouTube: ZUOLUOTV](https://zuoluo.tv/youtube)
+* [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://zuoluo.tv/bilibili)[ 哔哩哔哩: 罗罗磊磊](https://zuoluo.tv/bilibili)
+* [![YouTube](https://static.is26.com/tmp/youtube.svg)](https://zuoluo.tv/youtube) [YouTube: ZUOLUOTV](https://zuoluo.tv/youtube)
 * [🔖 新浪微博: 罗罗磊磊](https://zuoluo.tv/weibo)
 * [🏷 微信公众号:罗磊啰嗦](https://zuoluo.tv/wechat)
-* [![Github](http://static.is26.com/tmp/github.svg)](https://github.com/foru17)[  Github: foru17](https://github.com/foru17)
+* [![Github](https://static.is26.com/tmp/github.svg)](https://github.com/foru17)[  Github: foru17](https://github.com/foru17)
 * [📩 联系邮箱: i@luolei.org](mailto:i@luolei.org)
 
 ## 原创视频
@@ -23,13 +23,19 @@ ZUOLUOTV 导航
 
 #### 4月
 
-* VLOG38 | TOP5 我最常访问的五个小众中文网站 [![Youtube](http://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=Voj40REC68Y)[Youtube](https://www.youtube.com/watch?v=Voj40REC68Y) / [![Bilibili](http://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av48824245/)[Bilibili](https://www.bilibili.com/video/av48824245/)
-*  VLOG37 | 如何给 Lycamobile 充值任意金额的话费 | 突破淘宝最低$5限制 | 美国手机卡 [![Youtube](http://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=Voj40REC68Y)[Youtube](https://www.youtube.com/watch?v=RfRgZSF1MtE) / [![Bilibili](http://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av48214410/)[Bilibili](https://www.bilibili.com/video/av48214410/)
+* VLOG38 | TOP5 我最常访问的五个小众中文网站 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=Voj40REC68Y)[Youtube](https://www.youtube.com/watch?v=Voj40REC68Y) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av48824245/)[Bilibili](https://www.bilibili.com/video/av48824245/)
+*  VLOG37 | 如何给 Lycamobile 充值任意金额的话费 | 突破淘宝最低$5限制 | 美国手机卡 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=Voj40REC68Y)[Youtube](https://www.youtube.com/watch?v=RfRgZSF1MtE) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av48214410/)[Bilibili](https://www.bilibili.com/video/av48214410/)
 
 #### 3月
 
-*  VLOG36 | eSIM到底有多好用？在大陆也能免费体验 iPhone 手机 eSIM [![Youtube](http://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=5T9J2Bs-S6w)[Youtube](https://www.youtube.com/watch?v=5T9J2Bs-S6w) / [![Bilibili](http://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av47934212/)[Bilibili](https://www.bilibili.com/video/av47934212/)
-*  VLOG35 | iOS12.2 正式版隐藏功能 | 如何免费开通 iPhone Visual Voicemail 语音信箱 [![Youtube](http://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=8m_GwEHd2NQ)[Youtube](https://www.youtube.com/watch?v=8m_GwEHd2NQ) / [![Bilibili](http://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av47498069)[Bilibili](https://www.bilibili.com/video/av47498069)
+*  VLOG36 | eSIM到底有多好用？在大陆也能免费体验 iPhone 手机 eSIM [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=5T9J2Bs-S6w)[Youtube](https://www.youtube.com/watch?v=5T9J2Bs-S6w) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av47934212/)[Bilibili](https://www.bilibili.com/video/av47934212/)
+*  VLOG35 | iOS12.2 正式版隐藏功能 | 如何免费开通 iPhone Visual Voicemail 语音信箱 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=8m_GwEHd2NQ)[Youtube](https://www.youtube.com/watch?v=8m_GwEHd2NQ) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av47498069)[Bilibili](https://www.bilibili.com/video/av47498069)
+*  VLOG34 | 如何拥有一张香港签约手机卡？大陆居民持护照、港澳通行证，香港上台详细攻略 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=40vNJDYgnc0)[Youtube](https://www.youtube.com/watch?v=40vNJDYgnc0) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av45368048)[Bilibili](https://www.bilibili.com/video/av45368048)
+
+#### 2月
+
+*  VLOG33 | 最低0月租，就能合法拥有英国、香港、大陆三个手机号，居然还支持中国漫游 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=bRLWDQ4UhDU)[Youtube](https://www.youtube.com/watch?v=bRLWDQ4UhDU) 
+*  VLOG32 | 不在美国，如何拥有一个真实的美国手机号 | 从免费到超贵，三种实用方案推荐 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=7SA27nseq0s)[Youtube](https://www.youtube.com/watch?v=7SA27nseq0s) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av41610616)[Bilibili](https://www.bilibili.com/video/av41610616)
 
 ## 原创博客
 
