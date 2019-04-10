@@ -1,9 +1,9 @@
-ZUOLUOTV 导航
+ZUOLUOTV 导航 ![](https://img.shields.io/badge/lang-markdown-orange.svg?style=flat) ![](https://img.shields.io/badge/YouTube-ZUOLUOTV-orange.svg?style=flat)
 =================
 
 大家好,欢迎关注[ZUOLUOTV](https://zuoluo.tv),我是[罗磊](https://luolei.org/)。
 
-[ZUOLUOTV 导航](https://github.com/zuoluotv/zuoluotv)是一个分享、收集与 ZUOLUOTV 有关内容的导航聚合，欢迎大家Star，有问题可以在[issues](https://github.com/zuoluotv/zuoluotv/issues)里留言与讨论。
+[ZUOLUOTV 导航](https://github.com/zuoluotv/zuoluotv) 是一个分享、收集与 ZUOLUOTV 有关内容的导航聚合，欢迎大家Star，有问题可以在[issues](https://github.com/zuoluotv/zuoluotv/issues)里留言与讨论。
 
 ## 我是谁
 
@@ -130,13 +130,13 @@ ZUOLUOTV 视频以及「罗磊的独立博客」文章著作权归作者罗磊�
 
 ## 不侵权声明
 
-本人博客、视频内容均为原创，如果相关作品使用的图片、视频、音乐等素材有侵权行为，请立即[联系我](mailto:i@luolei.org)。
+本人博客、视频内容均为原创，身为内容制作者，我理解版权保护之重要，如果我的作品中使用的图片、视频、音乐等素材有侵权行为，请立即[联系我](mailto:i@luolei.org)。
 
-目前我使用的素材来源:
+#### 目前我使用的版权素材来源:
 
 * [无版权图片 Unsplash](http://unsplash.com)
-* [版权音乐库 epidemicsound](https://www.epidemicsound.com)
-* [版权音乐库 artlist](https://artlist.io/Luo-22404)
+* [版权音乐库 EpidemicSound](https://www.epidemicsound.com)
+* [版权音乐库 Artlist](https://artlist.io/Luo-22404)
 
 
 
