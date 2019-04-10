@@ -49,6 +49,34 @@ ZUOLUOTV 导航
 * [去美国旅行，不要用一加的国际上网| eSIM境外上网跳坑记](https://luolei.org/oneplus-esim-usa-travel/)
 * [如何在 iPhone 开通中国联通 Voicemail 语音邮箱](https://luolei.org/china-unicom-iphone-active-voicemail/)
 
+#### 美国旅行
+
+* [美国 | 美西8000里:蜜月旅行，再续「前」缘](https://luolei.org/usa-road-travel-nov/)
+* [美国 | 美西6000里:一趟旅行，女友成了前女友](https://luolei.org/usa-road-travel-feb/)
+* [美国十年签证到手记](https://luolei.org/we-got-usa-visa/)
+
+#### 日本旅行
+
+* [日本旅行上网攻略:移动WIFI和SIM卡哪个好?](https://luolei.org/travel-in-japan-wifi-tips/)
+* [遇见 | 日本 Day 1 :东京](https://luolei.org/meet-in-japan-day-1/)
+* [遇见 | 日本 Day 2 :东京](https://luolei.org/meet-in-japan-day-2/)
+* [遇见 | 日本 Day 3 :仙台](https://luolei.org/meet-in-japan-day-3/)
+* [遇见 | 日本 Day 4 :仙台-松岛](https://luolei.org/meet-in-japan-day-4/)
+* [遇见 | 日本 Day 5 :白石-东京](https://luolei.org/meet-in-japan-day-5/)
+
+#### 菲律宾旅行
+
+* [菲律宾 | 18米深蓝:薄荷岛&宿务 OW潜水旅行](https://luolei.org/travel-philippines-bohol/)
+* [遇见 | 菲律宾DAY1:马尼拉](https://luolei.org/pilipinas-travel-day-1/)
+* [遇见 | 菲律宾DAY2:马尼拉•长滩岛](https://luolei.org/pilipinas-travel-day-2/)
+* [遇见 | 菲律宾DAY3:长滩岛](https://luolei.org/pilipinas-travel-day-3/)
+* [遇见 | 菲律宾DAY4:长滩岛•马尼拉](https://luolei.org/pilipinas-travel-day-4/)
+* [遇见 | 长滩岛:去亚洲最美白沙滩拍妹纸是什么体验](https://luolei.org/travel-to-boracay-2016/)
+
+#### 台湾旅行
+
+* [遇见 | 台湾:精选集](https://luolei.org/travel-in-taiwan-2016/)
+
 ### 2019年
 
 * [我最常访问的五个小众中文网站](https://luolei.org/top-5-interesting-chinese-website/)
