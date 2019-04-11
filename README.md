@@ -26,6 +26,8 @@ ZUOLUOTV 制作人，左左文化创始人。家在深圳，本科广州[暨南�
 
 ## 原创视频
 
+全部视频列表: [![ZUOLUOTV](https://img.shields.io/badge/ZUOLUOTV-全部视频-orange.svg?style=flat)](https://github.com/zuoluotv/zuoluotv/blob/master/Video.md)
+
 ### 2019年
 
 #### 4月
@@ -50,6 +52,16 @@ ZUOLUOTV 制作人，左左文化创始人。家在深圳，本科广州[暨南�
 *  VLOG30 | WeSim对比一加国际上网 | 腾讯出品的良心境外上网卡 | 香港手机上网 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=Z9npDOKJD9w)[Youtube](https://www.youtube.com/watch?v=Z9npDOKJD9w) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av41069930)[Bilibili](https://www.bilibili.com/video/av41069930)
 *  VLOG29 | 美国银行开户攻略 | 去美国旅行，记得去办个真正的美国本地银行卡 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=Or7euv5dfMQ)[Youtube](https://www.youtube.com/watch?v=Or7euv5dfMQ) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av40985033)[Bilibili](https://www.bilibili.com/video/av40985033)
 *  VLOG28 | 去美国旅行，不要用一加的国际上网| eSIM境外上网跳坑记 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=C9ajYBAPzyE)[Youtube](https://www.youtube.com/watch?v=C9ajYBAPzyE) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av40614699)[Bilibili](https://www.bilibili.com/video/av40614699)
+
+### 2018年
+
+#### 12月
+
+*  VLOG27 | 告别魔性封面，Youtuber只需要10秒就能学会的视频创作技巧 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=oSmdHjNX20g)[Youtube](https://www.youtube.com/watch?v=oSmdHjNX20g) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av39113635)[Bilibili](https://www.bilibili.com/video/av39113635)
+*  VLOG26 | 分钟IG小技巧，不用手机也能发Instagram  [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=DMHzAYfvdwc)[Youtube](https://www.youtube.com/watch?v=DMHzAYfvdwc) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av39077059)[Bilibili](https://www.bilibili.com/video/av39077059)
+*  VLOG25 | 299元的网易严选 VS 900元的JINS | 第一次在线配近视眼镜 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=70Hu1z5kn5w)[Youtube](https://www.youtube.com/watch?v=70Hu1z5kn5w) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av38906445)[Bilibili](https://www.bilibili.com/video/av38906445)
+*  VLOG24 | 我在阿里巴巴花45元买了一个山寨 Peak Design 快挂 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=Rb2l4e-jEXI)[Youtube](https://www.youtube.com/watch?v=Rb2l4e-jEXI) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av38022707)[Bilibili](https://www.bilibili.com/video/av38022707)
+
 
 ## 原创博客
 
