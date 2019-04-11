@@ -11,7 +11,7 @@ ZUOLUOTV 电报交流群规则 ![](https://img.shields.io/badge/lang-markdown-or
 
 * 1.不要发广告，ID或头像中带广告必Ban。
 * 2.理性讨论，别聊政治和敏感话题；**严禁色情、低俗内容，必Ban**。
-* 3. **别做伸手党**，先看罗磊的[博客](https://luolei.org)、[视频](https://zuoluo.tv/youtube)，学会谷歌搜索、善看群聊记录。
+* 3.**别做伸手党**，先看罗磊的[博客](https://luolei.org)、[视频](https://zuoluo.tv/youtube)，学会谷歌搜索、善看群聊记录。
 * 4.别搞人身攻击，别搞地域黑，别骚扰异性。
 * 5.**不要用语音，不要连续刷屏**，恶意刷屏将被Ban。
 * 6.鼓励原创分享，分享外链尽量是科技、数码、摄影、旅行主题。
