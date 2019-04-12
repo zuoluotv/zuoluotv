@@ -12,6 +12,12 @@ ZUOLUOTV 制作人，左左文化创始人。家在深圳，本科广州[暨南�
 * [编程五年:我辞职了](https://luolei.org/new-journey/)
 * [腾讯第二届前端体验大会分享:非典型程序员之路](https://luolei.org/feexp-2017-shenzhen/)
 
+## 为什么不推荐私聊罗磊请教问题?
+
+* 基本上95%你想问的问题，我在相关的文章和视频中，都已经回答过了。请先在[以下渠道](https://github.com/zuoluotv/zuoluotv#%E4%BB%8E%E5%93%AA%E6%89%BE%E5%88%B0%E6%88%91)搜索、阅读完相关资料后，再考虑是否还需要提问。
+* **私聊是一个沟通效率很低的的交流形式**，有价值的信息仅在双人之间流动，信息和知识无法沉淀和传播，如果有问题，请在公开的群组里提问。
+* 我也有自己的工作和生活，作息以东八区时间为准，**时间和精力有限**，请理解一个一天收到50+私信的UP主面临的信息焦虑，谢谢。
+
 ## 从哪找到我
 
 * [![Telegram](https://static.is26.com/tmp/telegram.svg)](https://t.me/zuoluotv)[ Telegram 交流群](https://t.me/zuoluotv):[入群必读:ZUOLUOTV电报交流群规则](https://github.com/zuoluotv/zuoluotv/blob/master/Telegram.md)
@@ -23,6 +29,7 @@ ZUOLUOTV 制作人，左左文化创始人。家在深圳，本科广州[暨南�
 * [🏷 微信公众号:罗磊啰嗦](https://zuoluo.tv/wechat)
 * [![Github](https://static.is26.com/tmp/github.svg)](https://github.com/foru17)[  Github: foru17](https://github.com/foru17)
 * [📩 联系邮箱: i@luolei.org](mailto:i@luolei.org)
+
 
 ## 原创视频
 
