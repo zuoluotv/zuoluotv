@@ -1,4 +1,4 @@
-提问的正确方法 ![](https://img.shields.io/badge/lang-markdown-orange.svg?style=flat)
+如何高效提问 ![](https://img.shields.io/badge/lang-markdown-orange.svg?style=flat)
 =================
 
 ## 为什么我要写这个?
@@ -13,6 +13,15 @@
 * **私聊是一个沟通效率很低的的交流形式**，有价值的信息仅在双人之间流动，信息和知识无法沉淀和传播，如果有问题，请在[公开的群组](https://t.me/zuoluotv)里提问。
 * 我也有自己的工作和生活，作息以东八区时间为准，**时间和精力有限**，请理解一个一天收到50+私信的UP主面临的信息焦虑，谢谢。
 
+## 提问的技巧和艺术
+
+* [张鑫旭博客:如何提问的技巧](https://www.zhangxinxu.com/life/2018/07/how-to-ask-question/)
+* [MacTalk 池建强的随想录:如何提问？](http://macshuo.com/?p=367)
+* [Github:提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
+* [如何提问，并获得高回复率——提问的智慧(精缩版)](https://zhuanlan.zhihu.com/p/19779979)
+
+**强烈推荐你看完上面有关提问技巧的资料**，学会正确和高效地提问，对于你的日常学习、工作都会有很大的帮助。
+
 #### 在哪找我分享过的内容
 
 * [![Github](https://static.is26.com/tmp/github.svg)](https://github.com/foru17)[ ZUOLUOTV内容索引](https://github.com/zuoluotv/zuoluotv#%E5%8E%9F%E5%88%9B%E5%8D%9A%E5%AE%A2)
@@ -22,9 +31,8 @@
 * [🏷 微信公众号:罗磊啰嗦](https://zuoluo.tv/wechat)
 * [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://zuoluo.tv/bilibili)[ 哔哩哔哩: 罗罗磊磊](https://zuoluo.tv/bilibili)
 * [![YouTube](https://static.is26.com/tmp/youtube.svg)](https://zuoluo.tv/youtube) [YouTube: ZUOLUOTV](https://zuoluo.tv/youtube)
-* [📩 联系邮箱: i@luolei.org](mailto:i@luolei.org)
 
-## 从哪些渠道能搜索到我分享过的内容
+## 如何搜索到我分享过的内容
 
 #### 微信公众号
 
@@ -41,6 +49,10 @@
 * 机器人会自动搜索并回复相关的内容
 
 ![](https://static.is26.com/share/ask2.jpg)
+
+
+
+
 
 
 
