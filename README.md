@@ -9,7 +9,7 @@ ZUOLUOTV 导航  ![](https://img.shields.io/badge/ZUOLUOTV-导航-orange.svg?sty
 
 ZUOLUOTV 制作人，左左文化创始人。家在深圳，本科广州[暨南大学](https://www.jnu.edu.cn/)，在北京[猎豹移动](https://www.cmcm.com/)和上海[阅文集团](https://www.yuewen.com/)当过五年前端工程师，俗称程序员，2018年辞职创业，现在给[老婆](https://yang.style/s/weibo)打工，全世界走走逛逛拍拍。
 
-## 为什么不推荐私聊罗磊提问?
+## 为什么不推荐私聊提问?
 
 [![ZUOLUOTV](https://img.shields.io/badge/ZUOLUOTV-提问指南-blue.svg?style=flat)](https://github.com/zuoluotv/zuoluotv/blob/master/HowToAskQuestions.md)
 

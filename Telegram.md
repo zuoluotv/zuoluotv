@@ -60,7 +60,7 @@ ZUOLUOTV 电报交流群规则 ![](https://img.shields.io/badge/ZUOLUOTV-电报�
 * [JS神技能](https://t.me/joinchat/IH5XJktzBKVVn4Q5fZeq5Q)
 * [Google Voice 交流群](https://t.me/googlevoice)
 
-#### 为什么不要私聊罗磊问题?
+#### 为什么不推荐私聊提问?
 
 **查看提问指南**:[![ZUOLUOTV](https://img.shields.io/badge/ZUOLUOTV-提问指南-blue.svg?style=flat)](https://github.com/zuoluotv/zuoluotv/blob/master/HowToAskQuestions.md)
 

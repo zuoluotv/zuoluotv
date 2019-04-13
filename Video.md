@@ -6,7 +6,7 @@ ZUOLUOTV 视频列表 ![](https://img.shields.io/badge/ZUOLUOTV-视频列表-ora
 * [![YouTube](https://static.is26.com/tmp/youtube.svg)](https://zuoluo.tv/youtube) [YouTube: ZUOLUOTV](https://zuoluo.tv/youtube)
 * [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://zuoluo.tv/bilibili)[ 哔哩哔哩: 罗罗磊磊](https://zuoluo.tv/bilibili)
 
-**注**:由于不可控的原因,发布在哔哩哔哩等国内网站的某些视频，可能会被屏蔽，建议有网络条件的朋友，优先关注我的 YouTube 频道。
+**注**:由于不可控的原因，发布在哔哩哔哩等国内网站的某些视频，可能会被屏蔽，建议有网络条件的朋友，优先关注我的 YouTube 频道。
 
 ## 原创视频
 ### 2019年
@@ -42,6 +42,8 @@ ZUOLUOTV 视频列表 ![](https://img.shields.io/badge/ZUOLUOTV-视频列表-ora
 *  VLOG26 | 分钟IG小技巧，不用手机也能发Instagram  [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=DMHzAYfvdwc)[Youtube](https://www.youtube.com/watch?v=DMHzAYfvdwc) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av39077059)[Bilibili](https://www.bilibili.com/video/av39077059)
 *  VLOG25 | 299元的网易严选 VS 900元的JINS | 第一次在线配近视眼镜 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=70Hu1z5kn5w)[Youtube](https://www.youtube.com/watch?v=70Hu1z5kn5w) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av38906445)[Bilibili](https://www.bilibili.com/video/av38906445)
 *  VLOG24 | 我在阿里巴巴花45元买了一个山寨 Peak Design 快挂 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=Rb2l4e-jEXI)[Youtube](https://www.youtube.com/watch?v=Rb2l4e-jEXI) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av38022707)[Bilibili](https://www.bilibili.com/video/av38022707)
+*  VLOG23 | 每个创作者都应该有张人体工学椅 | 西昊M60 Sihoo Office Chair  [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=MdsKcLbTlPU)[Youtube](https://www.youtube.com/watch?v=MdsKcLbTlPU) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av37409319)[Bilibili](https://www.bilibili.com/video/av37409319)
+
 
 ## 版权声明与转载原则
 
