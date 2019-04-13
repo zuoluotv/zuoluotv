@@ -1,4 +1,4 @@
-ZUOLUOTV 导航 ![](https://img.shields.io/badge/lang-markdown-orange.svg?style=flat) ![](https://img.shields.io/badge/YouTube-ZUOLUOTV-orange.svg?style=flat)
+ZUOLUOTV 导航  ![](https://img.shields.io/badge/ZUOLUOTV-导航-orange.svg?style=flat)
 =================
 
 大家好,欢迎关注[ZUOLUOTV](https://zuoluo.tv),我是[罗磊](https://luolei.org/)。

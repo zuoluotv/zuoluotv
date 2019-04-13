@@ -1,4 +1,4 @@
-ZUOLUOTV 电报交流群规则 ![](https://img.shields.io/badge/lang-markdown-orange.svg?style=flat) 
+ZUOLUOTV 电报交流群规则 ![](https://img.shields.io/badge/ZUOLUOTV-电报入群规则-orange.svg?style=flat) 
 =================
 
 ## 声明

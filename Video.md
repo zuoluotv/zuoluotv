@@ -1,4 +1,4 @@
-ZUOLUOTV 视频更新 ![](https://img.shields.io/badge/lang-markdown-orange.svg?style=flat)
+ZUOLUOTV 视频列表 ![](https://img.shields.io/badge/ZUOLUOTV-视频列表-orange.svg?style=flat)
 =================
 
 ## 视频频道
