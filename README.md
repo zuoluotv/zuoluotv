@@ -23,27 +23,25 @@ ZUOLUOTV 制作人，左左文化创始人。家在深圳，本科广州[暨南�
 
 * [![Telegram](https://static.is26.com/tmp/telegram.svg)](https://t.me/zuoluotv)[ Telegram 交流群](https://t.me/zuoluotv)
 * [![Telegram](https://static.is26.com/tmp/telegram2.svg)](https://t.me/zuoluotvofficial)[ Telegram 频道](https://t.me/zuoluotvofficial)
-* [💻 罗磊的独立博客](https://luolei.org)
+* [![Blog](https://static.is26.com/tmp/blog.svg)](https://luolei.org)[ 罗磊的独立博客](https://luolei.org)
 * [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://zuoluo.tv/bilibili)[ 哔哩哔哩: 罗罗磊磊](https://zuoluo.tv/bilibili)
 * [![YouTube](https://static.is26.com/tmp/youtube.svg)](https://zuoluo.tv/youtube) [YouTube: ZUOLUOTV](https://zuoluo.tv/youtube)
 * [![weibo](https://static.is26.com/tmp/weibo.svg)](https://zuoluo.tv/weibo)[ 新浪微博: 罗罗磊磊](https://zuoluo.tv/weibo)
 * [![zhihu](https://static.is26.com/tmp/zhihu.svg)](https://zuoluo.tv/zhihu)[ 知乎: 罗磊](https://zuoluo.tv/zhihu)
 * [![wechat](https://static.is26.com/tmp/wechat.svg)](https://zuoluo.tv/wechat)[ 微信公众号:罗磊啰嗦](https://zuoluo.tv/wechat)
 * [![Github](https://static.is26.com/tmp/github.svg)](https://github.com/foru17)[  Github: foru17](https://github.com/foru17)
-* [📩 联系邮箱: i@luolei.org](mailto:i@luolei.org)
+* [![Mail](https://static.is26.com/tmp/gmail.svg)](mailto:i@luolei.org)[ 联系邮箱: i@luolei.org](mailto:i@luolei.org)
 
 
 ## 原创视频
 
 [![ZUOLUOTV](https://img.shields.io/badge/ZUOLUOTV-视频列表-orange.svg?style=flat)](https://github.com/zuoluotv/zuoluotv/blob/master/Video.md)
 
-ZUOLUOTV 的所有视频更新，都会整理发布在[ZUOLUOTV视频列表](https://github.com/zuoluotv/zuoluotv/blob/master/Video.md)，按照以下格式列出:
-
 * VLOG38 | TOP5 我最常访问的五个小众中文网站 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=Voj40REC68Y)[Youtube](https://www.youtube.com/watch?v=Voj40REC68Y) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av48824245/)[Bilibili](https://www.bilibili.com/video/av48824245/)
 
-你可以根据网络条件,选择在[![YouTube](https://static.is26.com/tmp/youtube.svg)](https://zuoluo.tv/youtube) [YouTube](https://zuoluo.tv/youtube)或[![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://zuoluo.tv/bilibili)[ 哔哩哔哩](https://zuoluo.tv/bilibili)观看对应视频。
+我的所有视频更新，都会整理发布在[ZUOLUOTV视频列表](https://github.com/zuoluotv/zuoluotv/blob/master/Video.md)，按照以上格式列出。
 
-欢迎在我的视频下方留言交流。
+你可以根据所处地区的网络条件,选择在[![YouTube](https://static.is26.com/tmp/youtube.svg)](https://zuoluo.tv/youtube) [YouTube](https://zuoluo.tv/youtube)或[![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://zuoluo.tv/bilibili)[ 哔哩哔哩](https://zuoluo.tv/bilibili)观看对应视频，欢迎在我的视频下方留言交流。
 
 ## 原创博客
 

@@ -1,13 +1,17 @@
-ZUOLUOTV 电报交流群规则 ![](https://img.shields.io/badge/ZUOLUOTV-电报入群规则-orange.svg?style=flat) 
+ZUOLUOTV 电报交流群指南 ![](https://img.shields.io/badge/ZUOLUOTV-电报指南-orange.svg?style=flat) 
 =================
+
+## ZUOLUOTV电报群导航
+
+* [![Telegram](https://static.is26.com/tmp/telegram.svg)](https://t.me/zuoluotv)[ ZUOLUOTV 交流群组](https://t.me/zuoluotv): 专属粉丝交流社群
+* [![Telegram](https://static.is26.com/tmp/telegram2.svg)](https://t.me/zuoluotvofficial)[ ZUOLUOTV 原创频道](https://t.me/zuoluotvofficial): 推送 ZUOLUOTV 最新动态
+* [![Telegram](https://static.is26.com/tmp/telegram3.svg)](https://hot.zuoluo.tv)[ ZUOLUOTV 实时话题](https://hot.zuoluo.tv): 每日群聊话题实时更新
 
 ## 声明
 
 > 自由并不意味着没有规则，群内稳定和持续的交流氛围，依靠的是大家对规则的尊重。
 
-## 电报群规 v1.3
-
-**更新日期**:2019.04.12
+## 电报交流群规 v1.3
 
 * 1.不要发广告，ID或头像中带广告必Ban。
 * 2.理性讨论，别聊政治和敏感话题；**严禁色情、低俗内容，必Ban**。
@@ -25,10 +29,11 @@ ZUOLUOTV 电报交流群规则 ![](https://img.shields.io/badge/ZUOLUOTV-电报�
 * 2.**脏话与粗俗用语**:就事论事，不要骂人。例:「你就是个傻逼」等有明确攻击对象的攻击性言论。
 * 3.传播不明来源代理、网站服务账号密码、盗版软件等行为。
 
-## 群内风险警示
+## 风险警示
 
-* 电报群上鱼龙混杂，有大量欺诈用户，请谨慎小心，以免上当受骗遭受财物和个人隐私的损失。
+* 电报群上鱼龙混杂，有大量欺诈用户，请谨慎小心，以免上当受骗，遭受财物损失、个人隐私泄露。
 * 群内仅有管理员[luolei](https://t.me/luolei)`账号id:luolei`为罗磊的唯一真实身份账号，其他任何冒充账号均勿相信。
+* 请勿使用不明来源的网络代理工具、VPN等，可能会导致你的网络信息、个人数据泄露。
 
 ## 为什么要制定规则?
 
