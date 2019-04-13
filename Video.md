@@ -1,12 +1,14 @@
 ZUOLUOTV 视频更新 ![](https://img.shields.io/badge/lang-markdown-orange.svg?style=flat)
 =================
 
+## 视频频道
+
 * [![YouTube](https://static.is26.com/tmp/youtube.svg)](https://zuoluo.tv/youtube) [YouTube: ZUOLUOTV](https://zuoluo.tv/youtube)
 * [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://zuoluo.tv/bilibili)[ 哔哩哔哩: 罗罗磊磊](https://zuoluo.tv/bilibili)
 
+**注**:由于不可控的原因,哔哩哔哩等国内网站的某些可能会被屏蔽，建议有网络条件的朋友，可以优先关注我的YouTube.
 
 ## 原创视频
-
 ### 2019年
 
 #### 4月
