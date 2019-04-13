@@ -26,9 +26,9 @@
 
 * [![Github](https://static.is26.com/tmp/github.svg)](https://github.com/foru17)[ ZUOLUOTV内容索引](https://github.com/zuoluotv/zuoluotv#%E5%8E%9F%E5%88%9B%E5%8D%9A%E5%AE%A2)
 * [![Telegram](https://static.is26.com/tmp/telegram.svg)](https://t.me/zuoluotv)[ Telegram 交流群](https://t.me/zuoluotv)
-* [![Telegram](https://static.is26.com/tmp/telegram2.svg)](https://t.me/zuoluotvofficial)[ Telegram 频道](https://t.me/zuoluotvofficial)
-* [💻 罗磊的独立博客](https://luolei.org)
-* [🏷 微信公众号:罗磊啰嗦](https://zuoluo.tv/wechat)
+* [![Blog](https://static.is26.com/tmp/blog.svg)](https://luolei.org)[ 罗磊的独立博客](https://luolei.org)
+* [![wechat](https://static.is26.com/tmp/wechat.svg)](https://zuoluo.tv/wechat)[ 微信公众号:罗磊啰嗦](https://zuoluo.tv/wechat)
+* [![zhihu](https://static.is26.com/tmp/zhihu.svg)](https://zuoluo.tv/zhihu)[ 知乎: 罗磊](https://zuoluo.tv/zhihu)
 * [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://zuoluo.tv/bilibili)[ 哔哩哔哩: 罗罗磊磊](https://zuoluo.tv/bilibili)
 * [![YouTube](https://static.is26.com/tmp/youtube.svg)](https://zuoluo.tv/youtube) [YouTube: ZUOLUOTV](https://zuoluo.tv/youtube)
 
