@@ -1,8 +1,6 @@
 ZUOLUOTV 电报交流群指南 ![](https://img.shields.io/badge/ZUOLUOTV-电报指南-orange.svg?style=flat) 
 =================
 
-## ZUOLUOTV电报群导航
-
 * [![Telegram](https://static.is26.com/tmp/telegram.svg)](https://t.me/zuoluotv)[ ZUOLUOTV 交流群组](https://t.me/zuoluotv): 专属粉丝交流社群
 * [![Telegram](https://static.is26.com/tmp/telegram2.svg)](https://t.me/zuoluotvofficial)[ ZUOLUOTV 原创频道](https://t.me/zuoluotvofficial): 推送 ZUOLUOTV 最新动态
 * [![Telegram](https://static.is26.com/tmp/telegram3.svg)](https://hot.zuoluo.tv)[ ZUOLUOTV 实时话题](https://hot.zuoluo.tv): 每日群聊话题实时更新
