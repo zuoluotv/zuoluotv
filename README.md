@@ -13,6 +13,7 @@ ZUOLUOTV 制作人，左左文化创始人。家在深圳，本科广州[暨南�
 
 [![ZUOLUOTV](https://img.shields.io/badge/ZUOLUOTV-提问指南-blue.svg?style=flat)](https://github.com/zuoluotv/zuoluotv/blob/master/HowToAskQuestions.md)
 
+* [提问指南:如何高效向罗磊提问](https://zuoluo.tv/ask)
 * 基本上95%你想问的问题，我在相关的文章和视频中，都已经回答过了。请先在[以下渠道](https://github.com/zuoluotv/zuoluotv#%E4%BB%8E%E5%93%AA%E6%89%BE%E5%88%B0%E6%88%91)搜索、阅读完相关资料后，再考虑是否还需要提问。
 * **私聊是一个沟通效率很低的的交流形式**，有价值的信息仅在双人之间流动，信息和知识无法沉淀和传播，如果有问题，请在公开的群组里提问。
 * 我也有自己的工作和生活，作息以东八区时间为准，**时间和精力有限**，请理解一个一天收到50+私信的UP主面临的信息焦虑，谢谢。
