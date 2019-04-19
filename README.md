@@ -149,6 +149,7 @@ ZUOLUOTV 制作人，左左文化创始人。家在深圳，本科广州[暨南�
 
 ### 2019年
 
+* [7个冷门的中文网站&社区推荐](https://luolei.org/7-select-chinese-websites/)
 * [我最常访问的五个小众中文网站](https://luolei.org/top-5-interesting-chinese-website/)
 * [创业笔记 | 从0到1开公司是什么体验](https://luolei.org/shenzhen-startup-tutorial/)
 
