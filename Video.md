@@ -13,7 +13,8 @@ ZUOLUOTV 视频列表 ![](https://img.shields.io/badge/ZUOLUOTV-视频列表-ora
 
 #### 4月
 
-* VLOG39 | TOP7 比小众还小众，7个冷门中文网站&社区推荐 | ZUOLUOTV | VLOG39 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=T3Lan2pcZdQ)[Youtube](https://www.youtube.com/watch?v=T3Lan2pcZdQ) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av49857869/)[Bilibili](https://www.bilibili.com/video/av49857869/)
+* VLOG40 | 2019 香港银行开户攻略 | 境外投资必备，如何拥有一个香港银行卡 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=8FaTY20neE0)[Youtube](https://www.youtube.com/watch?v=8FaTY20neE0)
+* VLOG39 | TOP7 比小众还小众，7个冷门中文网站&社区推荐 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=T3Lan2pcZdQ)[Youtube](https://www.youtube.com/watch?v=T3Lan2pcZdQ) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av49857869/)[Bilibili](https://www.bilibili.com/video/av49857869/)
 * VLOG38 | TOP5 我最常访问的五个小众中文网站 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=Voj40REC68Y)[Youtube](https://www.youtube.com/watch?v=Voj40REC68Y) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av48824245/)[Bilibili](https://www.bilibili.com/video/av48824245/)
 *  VLOG37 | 如何给 Lycamobile 充值任意金额的话费 | 突破淘宝最低$5限制 | 美国手机卡 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=Voj40REC68Y)[Youtube](https://www.youtube.com/watch?v=RfRgZSF1MtE) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av48214410/)[Bilibili](https://www.bilibili.com/video/av48214410/)
 
