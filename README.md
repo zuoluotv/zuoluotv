@@ -55,16 +55,19 @@ ZUOLUOTV 制作人，左左文化创始人。家在深圳，本科广州[暨南�
 
 #### 美国银行开户
 
+* [香港银行开户常见问题:Q&A](https://github.com/zuoluotv/zuoluotv/blob/master/Bank.md)
 * [美国银行开户攻略 | 去美国旅行，记得去办个真正的美国银行卡 | 中国游客也能办](https://luolei.org/bank-of-america-chinese-vistor-opening-account/)
 * [来美国旅游，办了张美国银行卡: B1/B2旅游签证 办理美国银行卡攻略](https://luolei.org/open-bank-account-in-usa-b1-b2-visa/)
 
 #### 香港银行开户
 
+* [香港银行开户常见问题:Q&A](https://github.com/zuoluotv/zuoluotv/blob/master/Bank.md)
 * [2019 香港银行开户攻略 | 境外投资必备，如何拥有一个香港银行卡](https://luolei.org/how-to-open-a-bank-account-in-hongkong/)
 
 
 #### 手机卡
 
+* [手机卡常见问题:Q&A](https://github.com/zuoluotv/zuoluotv/blob/master/SIM.md)
 * [人在中国，如何拥有真实的美国手机号 | 从免费到超贵，三种实用方案推荐 ](https://luolei.org/how-to-get-a-us-mobile-phone-number/)
 * [CUniq UK:一卡中英港三号，能在大陆漫游的英国手机卡](https://luolei.org/cuniq-uk-sim-card-china-roaming/)
 * [香港上台攻略:大陆居民持护照、港澳通行证办理香港手机卡套餐](https://luolei.org/cuniq-hk-shared-plan-for-chinese-mainland-citizens/)
