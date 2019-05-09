@@ -1,4 +1,4 @@
-Q&A:银行开户 ![](https://img.shields.io/badge/ZUOLUOTV-手机卡-orange.svg?style=flat) 
+Q&A:银行开户问答汇总 ![](https://img.shields.io/badge/ZUOLUOTV-手机卡-orange.svg?style=flat) 
 =================
 
 ## 资料
