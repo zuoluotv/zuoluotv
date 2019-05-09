@@ -55,7 +55,7 @@ ZUOLUOTV 制作人，左左文化创始人。家在深圳，本科广州[暨南�
 
 #### 美国银行开户
 
-* [香港银行开户常见问题:Q&A](https://github.com/zuoluotv/zuoluotv/blob/master/Bank.md)
+* [美国银行开户常见问题:Q&A](https://github.com/zuoluotv/zuoluotv/blob/master/Bank.md)
 * [美国银行开户攻略 | 去美国旅行，记得去办个真正的美国银行卡 | 中国游客也能办](https://luolei.org/bank-of-america-chinese-vistor-opening-account/)
 * [来美国旅游，办了张美国银行卡: B1/B2旅游签证 办理美国银行卡攻略](https://luolei.org/open-bank-account-in-usa-b1-b2-visa/)
 
