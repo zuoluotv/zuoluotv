@@ -77,6 +77,14 @@ ZUOLUOTV 电报交流群指南 ![](https://img.shields.io/badge/ZUOLUOTV-电报�
 * **私聊是一个沟通效率很低的的交流形式**，有价值的信息仅在双人之间流动，信息和知识无法沉淀和传播，如果有问题，请在公开的群组里提问。
 * 我也有自己的工作和生活，作息以东八区时间为准，**时间和精力有限**，请理解一个一天收到50+私信的UP主面临的信息焦虑，谢谢。
 
+## 管理员
+
+* [罗磊](https://t.me/luolei)
+* [Jason Leung](https://t.me/jasonleung_cn)
+* [Chiawei Chien](https://t.me/JChien)
+* [土豆 哪里去挖](https://t.me/he_ming)
+
+
 
 
 
