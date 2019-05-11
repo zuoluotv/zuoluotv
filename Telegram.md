@@ -4,6 +4,7 @@ ZUOLUOTV 电报交流群指南 ![](https://img.shields.io/badge/ZUOLUOTV-电报�
 * [![Telegram](https://static.is26.com/tmp/telegram.svg)](https://t.me/zuoluotv)[ ZUOLUOTV 交流群组](https://t.me/zuoluotv): 专属粉丝交流社群
 * [![Telegram](https://static.is26.com/tmp/telegram2.svg)](https://t.me/zuoluotvofficial)[ ZUOLUOTV 原创频道](https://t.me/zuoluotvofficial): 推送 ZUOLUOTV 最新动态
 * [![Telegram](https://static.is26.com/tmp/telegram3.svg)](https://hot.zuoluo.tv)[ ZUOLUOTV 实时话题](https://hot.zuoluo.tv): 每日群聊话题实时更新
+* [![Telegram](https://static.is26.com/tmp/telegram3.svg)](https://t.me/zuoluotv_transparency)[ ZUOLUOTV 透明度公告](https://hot.zuoluo.tv): 违规用户、封禁用户、管理规范公告
 
 ## 声明
 
@@ -83,6 +84,7 @@ ZUOLUOTV 电报交流群指南 ![](https://img.shields.io/badge/ZUOLUOTV-电报�
 * [Jason Leung](https://t.me/jasonleung_cn)
 * [Chiawei Chien](https://t.me/JChien)
 * [土豆 哪里去挖](https://t.me/he_ming)
+
 
 
 
