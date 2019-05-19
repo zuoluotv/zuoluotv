@@ -13,6 +13,8 @@ ZUOLUOTV 视频列表 ![](https://img.shields.io/badge/ZUOLUOTV-视频列表-ora
 
 #### 5月
 
+
+* VLOG42 | 让相机无限续航 | 我的100元成本摄影供电方案 | SONY 假电池   [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=JXsjjJCgIl4)[Youtube](https://www.youtube.com/watch?v=JXsjjJCgIl4) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av52740768/)[Bilibili](https://www.bilibili.com/video/av52740768/)
 * VLOG41 | 超越卡槽限制，让 iPhone 也能多卡多待 | 多卡宝 SIMBOX 评测  [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=_SYq-7jBrrw)[Youtube](https://www.youtube.com/watch?v=_SYq-7jBrrw) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av52314715/)[Bilibili](https://www.bilibili.com/video/av52314715/)
 
 #### 4月
