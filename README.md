@@ -27,6 +27,7 @@ ZUOLUOTV 制作人，左左文化创始人。家在深圳，本科广州[暨南�
 * [![Blog](https://static.is26.com/tmp/blog.svg)](https://luolei.org)[ 罗磊的独立博客](https://luolei.org)
 * [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://zuoluo.tv/bilibili)[ 哔哩哔哩: 罗罗磊磊](https://zuoluo.tv/bilibili)
 * [![YouTube](https://static.is26.com/tmp/youtube.svg)](https://zuoluo.tv/youtube) [YouTube: ZUOLUOTV](https://zuoluo.tv/youtube)
+* [![Twitter](https://static.is26.com/tmp/twitter.svg)](https://zuoluo.tv/twitter)[ Twitter: luoleiorg](https://zuoluo.tv/weibo)
 * [![weibo](https://static.is26.com/tmp/weibo.svg)](https://zuoluo.tv/weibo)[ 新浪微博: 罗罗磊磊](https://zuoluo.tv/weibo)
 * [![zhihu](https://static.is26.com/tmp/zhihu.svg)](https://zuoluo.tv/zhihu)[ 知乎: 罗磊](https://zuoluo.tv/zhihu)
 * [![wechat](https://static.is26.com/tmp/wechat.svg)](https://zuoluo.tv/wechat)[ 微信公众号:罗磊啰嗦](https://zuoluo.tv/wechat)

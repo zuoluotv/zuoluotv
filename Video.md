@@ -11,9 +11,15 @@ ZUOLUOTV 视频列表 ![](https://img.shields.io/badge/ZUOLUOTV-视频列表-ora
 ## 原创视频
 ### 2019年
 
+#### 6月
+
+
+* VLOG49 | 我在香港测试了三个运营商、四种手机上网方案 | eSIM vs 实体SIM vs SoftSIM  [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://zuoluo.tv/vlog48)[Youtube](https://zuoluo.tv/vlog49) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://zuoluo.tv/vlog49-b)[Bilibili](https://zuoluo.tv/vlog49-b)
+* VLOG47 | 老婆开箱 | Realme X 蒸汽白 | OPPO 子品牌千元机香不香? [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://zuoluo.tv/vlog47)[Youtube](https://zuoluo.tv/vlog47) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://zuoluo.tv/vlog47-b)[Bilibili](https://zuoluo.tv/vlog47-b)
+
 #### 5月
 
-
+* VLOG46 | 直降20℃ | 拒绝高温，我给路由器加了一个小风扇 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://zuoluo.tv/vlog46)[Youtube](https://zuoluo.tv/vlog46) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://zuoluo.tv/vlog46-b)[Bilibili](https://zuoluo.tv/vlog46-b)
 * VLOG45 | 开箱 | 来自台湾的礼物包裹 | 多谢对岸朋友 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=ciy1Om_gHVU)[Youtube](https://www.youtube.com/watch?v=ciy1Om_gHVU) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av53382646/)[Bilibili](https://www.bilibili.com/video/av53382646/)
 * VLOG44 | 自己动手维修4K显示器 | 拯救碎屏，省下1700元 [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=yozKU3o16QI)[Youtube](https://www.youtube.com/watch?v=yozKU3o16QI) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av53219786/)[Bilibili](https://www.bilibili.com/video/av53219786/)
 * VLOG43 | 300元环形灯 vs 4000元专业影视灯 | 新老灯光对比 | 爱图仕 Aputure 120d II [![Youtube](https://static.is26.com/tmp/youtube.svg)](https://www.youtube.com/watch?v=7vTx1L4yzT8)[Youtube](https://www.youtube.com/watch?v=7vTx1L4yzT8) / [![Bilibili](https://static.is26.com/tmp/bilibili.svg)](https://www.bilibili.com/video/av53025479/)[Bilibili](https://www.bilibili.com/video/av53025479/)
